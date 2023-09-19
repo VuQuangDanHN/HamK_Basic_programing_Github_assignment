@@ -1,4 +1,4 @@
-package A; test 1
+package A; test 2
 
 public class B_one {
 
